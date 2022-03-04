@@ -37,12 +37,20 @@ In Tableau, many visualizations were created to highlight relationships in the d
 
 3. Heat Map showing Number of Trips day of the week and gender, filtered by customer type. 
 
+![alt text](https://raw.githubusercontent.com/KitWilliams07/Citi_Bike/main/Screenshots/Gender:Usage:User.png)
+
 4. Plot showing Number of Trips by duration, filtered by hour. 
+
+![alt text](https://raw.githubusercontent.com/KitWilliams07/Citi_Bike/main/Screenshots/TripDuration.png)
 
 5. Plot showing Number of Trips by duration, filtered by hour and gender. 
 
+![alt text](https://raw.githubusercontent.com/KitWilliams07/Citi_Bike/main/Screenshots/TripDuration:Gender.png)
 
 6. Map of Starting Locations, adjusted by size and color. 
 
+![alt text](https://raw.githubusercontent.com/KitWilliams07/Citi_Bike/main/Screenshots/StartingLocations.png)
+
 7. Grid of Bike ID's and Number of Trips, used to determine need of Bike Repairs.
 
+![alt text](https://raw.githubusercontent.com/KitWilliams07/Citi_Bike/main/Screenshots/BikeRepair.png)
