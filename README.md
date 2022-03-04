@@ -27,23 +27,23 @@ In Tableau, many visualizations were created to highlight relationships in the d
 ## Summary 
 
 
-1. Heat Map showing Number of Trips by time of day and day of the week.
+1. Heat Map showing Number of Trips by Time of Day and Day of the Week.
 
 ![alt text](https://raw.githubusercontent.com/KitWilliams07/Citi_Bike/main/Screenshots/StopTime.png)
 
-2. Heat Map showing Number of Trips by time of day and day of the week, filtered by Gender. 
+2. Heat Map showing Number of Trips by Time of Day and Day of the Week, filtered by Gender. 
 
 ![alt text](https://raw.githubusercontent.com/KitWilliams07/Citi_Bike/main/Screenshots/Gender:StopTime.png)
 
-3. Heat Map showing Number of Trips day of the week and gender, filtered by customer type. 
+3. Heat Map showing Number of Trips Day of the Week and Gender, filtered by Customer Type. 
 
 ![alt text](https://raw.githubusercontent.com/KitWilliams07/Citi_Bike/main/Screenshots/Gender:Usage:User.png)
 
-4. Plot showing Number of Trips by duration, filtered by hour. 
+4. Plot showing Number of Trips by Duration, filtered by Hour. 
 
 ![alt text](https://raw.githubusercontent.com/KitWilliams07/Citi_Bike/main/Screenshots/TripDuration.png)
 
-5. Plot showing Number of Trips by duration, filtered by hour and gender. 
+5. Plot showing Number of Trips by Duration, filtered by Hour and Gender. 
 
 ![alt text](https://raw.githubusercontent.com/KitWilliams07/Citi_Bike/main/Screenshots/TripDuration:Gender.png)
 
